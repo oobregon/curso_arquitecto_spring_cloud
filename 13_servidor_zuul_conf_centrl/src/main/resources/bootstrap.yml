@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: servidor-zuul-casa
+  cloud:    config:      uri: http://192.168.1.41:8888    
